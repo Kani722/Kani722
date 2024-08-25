@@ -27,7 +27,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kani722&theme=tokyonight_duo" alt="kani722" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kani722&theme=tokyonight_duo" alt="Kani722" /></p>
 
 </details>
   
@@ -37,8 +37,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Gihan Kanishka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kani722&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kani722&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="kani722" height="230px"/>
+	    <img alt="Gihan Kanishka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kani722&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kani722&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Kani722" height="230px"/>
 <br/>
 
   </p>
