@@ -29,7 +29,7 @@
 <tr border="none">
 <td width="50%" align="center">
   <!-- GitHub Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kani722&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kani722&theme=dark&show_icons=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   <br></br>
   <!-- Streak Stats -->
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=Kani722&theme=dark&hide_border=false" />
@@ -40,4 +40,3 @@
 </td>
 </tr>
 </table>
-
