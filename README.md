@@ -25,19 +25,19 @@
 
 ## <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  </picture> Github Stats
 
-
-<h3 align="center">Github Stats:</h3>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kani722&theme=dark&show_icons=true&count_private=true" />
+  <!-- GitHub Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kani722&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kani722&theme=dark&hide_border=false" /> 
+  <!-- Streak Stats -->
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=Kani722&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kani722&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+  <!-- Most Used Languages -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kani722&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Most Used Languages" />
+</td>
 </tr>
-</table>	
+</table>
+
