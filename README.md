@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 -  👀 I’m interested in **Networking**
-- 🌱 I’m currently reading **Computer Engineering at UoR**
+- 🌱 I’m currently studying **Computer Engineering at UoR**
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
