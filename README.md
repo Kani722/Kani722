@@ -7,6 +7,7 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
 - ⚡ Fun fact **I think I am funny**
 -  👀 I’m interested in **Networking**
 - 🌱 I’m currently reading **Computer Engineering at UoR**
