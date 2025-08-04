@@ -1,7 +1,7 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
  
 <h1 align="center">Hi 👋, I'm Gihan Kanishka</h1>
-<h3 align="center">A passionate Backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Network Engineer from Sri Lanka</h3>
 
 - 📫 How to reach me **kanishkagihan570@gmail.com**
 <a target="_blank" align="center">
