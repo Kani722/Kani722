@@ -37,7 +37,7 @@
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Kani722&theme=dark&show_icons=true&count_private=true"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Kani722&theme=gotham"/>
 
